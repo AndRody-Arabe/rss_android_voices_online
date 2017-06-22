@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- اسم التطبيق -->
+    <string name="app_name">القرآن الكريم / ناصر القطامي</string>
+    <string name="source_url">http://andrody.com/app_music/test_app.xml</string>
+
+    <!-- النصوص المستخدمة في التطبيق -->
+    <string name="text_1">عذراً, الرابط غير صالح</string>
+    <string name="text_2">تم الإيقاف</string>
+    <string name="text_3">جاري التشغيل ...</string>
+    <string name="text_4">يتم الآن تجهيز الصوت ...</string>
+    <string name="text_5">جاري الانتقال ..</string>
+
+</resources>
